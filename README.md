@@ -1,11 +1,10 @@
 ### Hi there, I'm PDK! 👋
 
-彭道宽，就职于 CVTE，部门人称“彭于晏广州分晏”，掘金专栏作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章
+彭道宽，就职于 CVTE，部门人称“彭于晏广州分晏”，掘金专栏作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章。你可以在这里找到我：[github](https://github.com/PDKSophia)、[博客](https://github.com/PDKSophia/blog.io)、[掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts)、[微博](https://weibo.com/u/2971991985)、[SugarTurboS](https://github.com/SugarTurboS)
 
 - 😄 职位：前端工程师
 - 💬 加个微信：PPPengDK
 - 🏡 加入社区：[SugarTurboS Club](https://github.com/SugarTurboS)
-- 🌱 更多地址： [github](https://github.com/PDKSophia)、[博客](https://github.com/PDKSophia/blog.io)、[掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts)、[微博](https://weibo.com/u/2971991985)
 - 📫 加入我们：简历发至 1063137960@qq.com
 - 💬 向我询问：如有问题可以[点击](https://github.com/PDKSophia/blog.io/issues)（Ask me about）
 - 📚 掘金小册：[《Electron + React Hooks + TS 实战开发：从 0 到 1 实现简历平台》](https://juejin.cn/book/6950646725295996940)
