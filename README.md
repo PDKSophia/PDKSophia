@@ -7,7 +7,7 @@
 - 🏡 加入社区：[SugarTurboS Club](https://github.com/SugarTurboS)
 - 📫 加入我们：简历发至 1063137960@qq.com
 - 💬 向我询问：如有问题可以[点击](https://github.com/PDKSophia/blog.io/issues)（Ask me about）
-- 📚 掘金小册：[《Electron + React Hooks + TS 实战开发：从 0 到 1 实现简历平台》](https://juejin.cn/book/6950646725295996940)
+- 📚 掘金小册：[《Electron + React 从 0 到 1 实现简历平台实战》](https://juejin.cn/book/6950646725295996940)
 - ⚡ 后人哀之而不鉴之，以使后人复哀后人也！
 
 <img src="https://github-readme-stats.vercel.app/api?username=PDKSophia&show_icons=true" alt="1024bibi.com" style="margin-top: 100px;" />
