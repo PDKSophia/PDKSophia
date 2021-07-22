@@ -1,6 +1,19 @@
-### Hi there, I'm PDK! 👋
+### Hi，我是彭道宽! 👋
 
-彭道宽，就职于 CVTE，江湖人称“彭于晏广州分晏”，掘金专栏作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章。你可以在这里找到我：[github](https://github.com/PDKSophia)、[博客](https://github.com/PDKSophia/blog.io)、[掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts)、[微博](https://weibo.com/u/2971991985)、[SugarTurboS](https://github.com/SugarTurboS)
+就职于 CVTE，江湖人称“彭于晏广州分晏”，掘金专栏作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章。你可以在下面找到我
+
+![](https://visitor-badge.glitch.me/badge?page_id=PDKSophia.PDKSophia)
+
+**社区主页**
+
+- [博客](https://github.com/PDKSophia/blog.io) `[💻 技术渣渣]`
+- [掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts) `[🏷️ 小册作者]`
+- [微博](https://weibo.com/u/2971991985) `[🌞 撕逼达人]`
+- [小红书](https://www.xiaohongshu.com/user/profile/5b07aa88f7e8b95255c7cdd5?xhsshare=CopyLink&appuid=5b07aa88f7e8b95255c7cdd5&apptime=1626939526) `[👔 穿搭博主]`
+- [Bilibili](https://space.bilibili.com/14219999) `[🎤 即将直播]`
+- [SugarTurboS](https://github.com/SugarTurboS) `[🏠 社区二把手]`
+
+**基本信息**
 
 - 😄 职位：前端工程师
 - 💬 加个微信：PPPengDK
