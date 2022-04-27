@@ -1,6 +1,6 @@
 ### Hi，我是彭道宽! 👋
 
-就职于 CVTE，江湖人称“彭于晏广州分晏”，掘金专栏作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章。你可以在下面找到我
+就职于 CVTE，江湖人称 “彭于晏广州分晏”，掘金LV4博主，掘金小册作者，投身开源，[rc-redux-model](https://github.com/SugarTurboS/rc-redux-model) 库作者，SugarTurboS 开源组织推动者之一，坚持用心写文章。你可以在下面找到我
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PDKSophia.PDKSophia)
 
@@ -23,9 +23,6 @@
 - 📚 掘金小册：[《Electron + React 从 0 到 1 实现简历平台实战》](https://juejin.cn/book/6950646725295996940)
 - ⚡ 后人哀之而不鉴之，以使后人复哀后人也！
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=PDKSophia&show_icons=true" alt="1024bibi.com" style="margin-top: 100px;" /> -->
-
-
 <!-- **Languages and Tools:**  
 
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -36,6 +33,7 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  -->
+ 
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -51,4 +49,4 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=PDKSophia&show_icons=true" alt="1024bibi.com" style="margin-top: 100px;" /> -->
