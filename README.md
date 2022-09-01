@@ -9,8 +9,6 @@
 - [博客](https://github.com/PDKSophia/blog.io) `[💻 技术渣渣]`
 - [掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts) `[🏷️ 小册作者]`
 - [微博](https://weibo.com/u/2971991985) `[🌞 撕逼达人]`
-- [小红书](https://www.xiaohongshu.com/user/profile/5b07aa88f7e8b95255c7cdd5?xhsshare=CopyLink&appuid=5b07aa88f7e8b95255c7cdd5&apptime=1626939526) `[👔 穿搭博主]`
-- [Bilibili](https://space.bilibili.com/14219999) `[🎤 即将直播]`
 - [SugarTurboS](https://github.com/SugarTurboS) `[🏠 社区二把手]`
 
 **基本信息**
