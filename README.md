@@ -8,13 +8,11 @@
 
 - [博客](https://github.com/PDKSophia/blog.io) `[💻 技术渣渣]`
 - [掘金](https://juejin.im/user/594ca8a35188250d892f4139/posts) `[🏷️ 小册作者]`
-- [微博](https://weibo.com/u/2971991985) `[🌞 撕逼达人]`
 - [SugarTurboS](https://github.com/SugarTurboS) `[🏠 社区二把手]`
 
 **基本信息**
 
 - 😄 职位：前端工程师
-- 💬 加个微信：PPPengDK
 - 🏡 加入社区：[SugarTurboS Club](https://github.com/SugarTurboS)
 - 📫 加入我们：简历发至 1063137960@qq.com
 - 💬 向我询问：如有问题可以[点击](https://github.com/PDKSophia/blog.io/issues)（Ask me about）
